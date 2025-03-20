@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @gusmonteirosilva
-- 👀 I’m interested in tech in general and obssesed with Nintendo games
+- 👀 I’m interested in tech in general and obsessed with Nintendo games
 - 🌱 I’m currently learning Java, Python, JavaScript, HTML and CSS
 - 💞️ I’m looking to collaborate on projects that accept a junior dev with a strong desire to learn
 - 📫 How to reach me: Insta/Threads @gus.msilva | X @gusmsilva
